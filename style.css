@@ -33,11 +33,11 @@ div.beloved {
   position: relative;
   background: radial-gradient(ellipse, #e3ba9b 3vmin, transparent 5vmin) 50vmin
       5vmin/10vmin 5vmin no-repeat,
-    radial-gradient(circle, #3c6526 0.75vmin, black 0.75vmin, transparent 1vmin)
+    radial-gradient(circle, black 0.75vmin, black 0.75vmin, transparent 1vmin)
       52vmin 12vmin/4vmin 4vmin no-repeat,
-    radial-gradient(circle, #3c6526 0.75vmin, black 0.75vmin, transparent 1vmin)
+    radial-gradient(circle, black 0.75vmin, black 0.75vmin, transparent 1vmin)
       56vmin 12vmin/4vmin 4vmin no-repeat,
-    radial-gradient(circle, #f0caab 5vmin, #ecbc95 10vmin, transparent 10vmin)
+    radial-gradient(circle, white 5vmin, #ecbc95 10vmin, transparent 10vmin)
       45vmin 5vmin/20vmin 20vmin no-repeat,
     radial-gradient(ellipse at 90% 100%, #633b1c 8vmin, transparent 8vmin)
       30vmin 85vmin/20vmin 8vmin no-repeat,
